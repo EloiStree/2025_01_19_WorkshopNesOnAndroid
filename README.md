@@ -42,9 +42,7 @@ Un *Faster Than Light* en multijoueur :
 
 ## Objectif final
 
-Apprendre à créer votre télécommande sur Android:
-<img width="1332" height="700" alt="image" src="https://github.com/user-attachments/assets/e67d8193-6bcd-4c6d-a151-307c99315109" />
+Apprendre à créer votre télécommande sur Android.
+Pour le fun de faire une premier app Android et apprendre les interfaces 2D de Unity.
 
----
 
-Si tu veux une version **PDF**, **Markdown propre**, ou **fiche étudiant imprimable**, je peux aussi m’en charger.
