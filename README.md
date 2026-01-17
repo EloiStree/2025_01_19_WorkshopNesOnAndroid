@@ -1,7 +1,18 @@
 
 # Workshop: Xbox Remote Android Toolbox
 
-Following:  https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade/blob/main/README.md
+<= https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharpArcade
+
+## Planning
+
+* **Matin** : Apprendre à sauver le projet que vous avez fait avec les collègues sous Git.
+* **Avant-midi** : C’est quoi une interface 2D : bouton, ancrage, vertical, horizontal, slider.
+* **Midi** : Utiliser Git pour faire une boîte à outils.
+* **Fin de journée** : Pratiquer.
+
+_Voir: Q_EloiLaboratoryXR _
+
+
 
 ## Objectifs de la journée de cours
 
