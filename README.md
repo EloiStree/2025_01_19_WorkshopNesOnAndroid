@@ -5,16 +5,52 @@
 
 ## Planning
 
-* **Matin** : Apprendre à sauver le projet que vous avez fait avec les collègues sous Git.
-  * https://github.com/EloiStree/HelloGit/tree/main/Workshop/SaveYourUnityProject
+* **Matin** : Apprendre à sauvegarder le projet que vous avez fait avec vos collègues sous Git.
+  * [https://github.com/EloiStree/HelloGit/tree/main/Workshop/SaveYourUnityProject](https://github.com/EloiStree/HelloGit/tree/main/Workshop/SaveYourUnityProject)
 * **Avant-midi** : C’est quoi une interface 2D : bouton, ancrage, vertical, horizontal, slider.
-  * Example: Creer une manette Nintendo NES sur Android. (Faire video) 
-* **Midi** : Utiliser Git pour faire une boîte à outils.
-  * https://github.com/EloiStree/HelloGit/tree/main/Workshop/CreatePackageInUnity 
+  * Exemple : Créer une manette Nintendo NES sur Android. (Faire une vidéo)
+* **Midi** : Utiliser Git pour créer une boîte à outils.
+  * [https://github.com/EloiStree/HelloGit/tree/main/Workshop/CreatePackageInUnity](https://github.com/EloiStree/HelloGit/tree/main/Workshop/CreatePackageInUnity)
 * **Fin de journée** : Pratiquer.
+*Voir : Q_EloiLaboratoryXR*
 
-_Voir: Q_EloiLaboratoryXR_
 
+## Git
+
+* [https://www.youtube.com/@eloistreeraw/search?query=git](https://www.youtube.com/@eloistreeraw/search?query=git)
+
+  * Créer un package
+
+    * Créer un banana spawner
+      [https://youtu.be/nA7rfKUSrQE?t=1897](https://youtu.be/nA7rfKUSrQE?t=1897)
+    * Une radio à toucher
+      [https://youtu.be/t4G4xLq3kn8](https://youtu.be/t4G4xLq3kn8)
+    * Une cuisine en deux boîtes à outils
+      [https://youtu.be/vgIK5L8dNFc?t=1109](https://youtu.be/vgIK5L8dNFc?t=1109)
+    * Partager un outil sur hordes.io en UDP
+      [https://youtu.be/KfV9UT45NwY?t=5](https://youtu.be/KfV9UT45NwY?t=5)
+    * OpenBrush a un package pour les artistes
+      [https://www.youtube.com/watch?v=Ets44loEmlw](https://www.youtube.com/watch?v=Ets44loEmlw)
+  * Mettre un projet en ligne
+
+    * MoleenGeek
+      [https://www.youtube.com/watch?v=v1CuT0UdbFw](https://www.youtube.com/watch?v=v1CuT0UdbFw)
+* Créer un jeu multiplateforme grâce aux boîtes à outils
+
+  * Workflow A-Z
+    [https://youtu.be/Ncd4KBM3km8?t=914](https://youtu.be/Ncd4KBM3km8?t=914)
+
+**Non classé**
+
+* Tutoriel Git
+  [https://www.youtube.com/watch?v=9t_mqOLfVeU](https://www.youtube.com/watch?v=9t_mqOLfVeU)
+
+**Applications**
+
+* [GitHub Desktop](https://www.youtube.com/watch?v=ldQik_IaKTY)
+* [Git CMD](https://youtu.be/4gCYIreHr5k)
+* [Fork](https://www.youtube.com/watch?v=EeymJVibDAw)
+* [WinDirStat](https://www.youtube.com/watch?v=qDcfFiTENpA)
 
 
 ## Objectifs de la journée de cours
