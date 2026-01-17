@@ -10,7 +10,7 @@
 * **Midi** : Utiliser Git pour faire une boîte à outils.
 * **Fin de journée** : Pratiquer.
 
-_Voir: Q_EloiLaboratoryXR _
+_Voir: Q_EloiLaboratoryXR_
 
 
 
