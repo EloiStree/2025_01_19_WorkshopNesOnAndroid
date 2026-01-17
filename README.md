@@ -1,5 +1,5 @@
 
-# 2025_01_19_WorkshopXboxRemoteAndroidToolbox
+# Workshop: Xbox Remote Android Toolbox
 
 ## Objectifs de la journée de cours
 
