@@ -6,8 +6,10 @@
 ## Planning
 
 * **Matin** : Apprendre à sauver le projet que vous avez fait avec les collègues sous Git.
+  * https://github.com/EloiStree/HelloGit/tree/main/Workshop/SaveYourUnityProject
 * **Avant-midi** : C’est quoi une interface 2D : bouton, ancrage, vertical, horizontal, slider.
 * **Midi** : Utiliser Git pour faire une boîte à outils.
+  * https://github.com/EloiStree/HelloGit/tree/main/Workshop/CreatePackageInUnity 
 * **Fin de journée** : Pratiquer.
 
 _Voir: Q_EloiLaboratoryXR_
