@@ -18,9 +18,8 @@
 ## Git
 
 * [https://www.youtube.com/@eloistreeraw/search?query=git](https://www.youtube.com/@eloistreeraw/search?query=git)
-
+* [https://www.youtube.com/@EloiTeaching/search?query=git](https://www.youtube.com/@EloiTeaching/search?query=git)
   * Créer un package
-
     * Créer un banana spawner
       [https://youtu.be/nA7rfKUSrQE?t=1897](https://youtu.be/nA7rfKUSrQE?t=1897)
     * Une radio à toucher
@@ -32,11 +31,9 @@
     * OpenBrush a un package pour les artistes
       [https://www.youtube.com/watch?v=Ets44loEmlw](https://www.youtube.com/watch?v=Ets44loEmlw)
   * Mettre un projet en ligne
-
     * MoleenGeek
       [https://www.youtube.com/watch?v=v1CuT0UdbFw](https://www.youtube.com/watch?v=v1CuT0UdbFw)
 * Créer un jeu multiplateforme grâce aux boîtes à outils
-
   * Workflow A-Z
     [https://youtu.be/Ncd4KBM3km8?t=914](https://youtu.be/Ncd4KBM3km8?t=914)
 
