@@ -95,5 +95,6 @@ Pour tester notre manette :
 ---
 
 **Vidéo : montage de l’exercice :**
+- Step by step de la manette NES https://youtu.be/SHLRBrYZp-s
 
 
