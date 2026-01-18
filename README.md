@@ -8,9 +8,9 @@ Précédemment : [https://github.com/EloiStree/2026_01_16_WorkshopNidGamingSharp
 - https://github.com/EloiStree/2026_01_18_upm_nes_udp_multiplayer
 
 Hey hey 😋
-J’ai hésité longtemps sur l’atelier de remplacement de [Hordes.io](https://hordes.io).
-Mais j’ai trouvé un atelier fun :
-On va faire une manette NES sur Android.
+J’ai hésité longtemps sur l’atelier de remplacement de [Hordes.io](https://hordes.io).  
+Mais j’ai trouvé un atelier fun :    
+On va faire une manette NES sur Android.    
 
 ## Planning
 
